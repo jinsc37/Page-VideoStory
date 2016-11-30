@@ -1,4 +1,4 @@
-# Video-Story Composition via Plot Analysis
+# Video-Story Composition via Plot Analysis [CVPR 2016]
 
 The Video-Story dataset can be downloaded from the following link:
 
